@@ -1,6 +1,6 @@
 ## Projet 8. Faites une étude sur l'eau potable avec Tableau
 
-https://public.tableau.com/app/profile/olga5403/viz/P8_02_histoire_tableau/Story?publish=yes 
+https://public.tableau.com/shared/Q24MWMH9P?:display_count=n&:origin=viz_share_link 
 
 Le client présente 3 domaines d’expertises :
 * Création de services d’accès à l’eau potable ;
