@@ -1,4 +1,4 @@
-## Projet 10. Faites une étude sur l’activité d'une entreprise spécialisée dans les articles de sport avec Tableau
+## Projet 10. Faites une étude sur l’activité d'un groupe hôtelier avec Tableau
 
 https://public.tableau.com/views/FILABA/Tableaudebordhybride?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link 
 
