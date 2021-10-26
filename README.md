@@ -95,3 +95,18 @@ Voici quelques cibles d’analyse :
 - Analyse de la popularité des tailles ;
 - Analyse des ventes par commerciaux et pays ;
 - Indicateurs sur des articles à plus d’un million d’euros de CA.
+
+## Projet 10. Faites une étude sur l’activité d'un groupe hôtelier avec Tableau
+
+Groupe Hôtelier constitue de 3 hôtels en France : Paris 18ème, île de France et en Provence. 
+En tant que consultant Analytique, je suis missionnée par la direction afin d’apporter des analyses relatives à l’activité de réservation du parc hôtelier. 
+L’objectif principal est d’apporter des analyses qui permettent de prendre connaissance de l’état de fait. Ainsi que d’améliorer la compétitivité et maximiser la rentabilité des hôtels – afin d’aider à la prise de décision.
+
+Les questions soulevées par le métier s’articulent autour du Benchmark et de la rentabilité :
+-	Définir les effets de saisonnalité en fonction des Hôtel
+-	Donnez le classement des hôtels les plus rentables (définir la notion de rentabilité)
+-	Aidez à améliorer la rentabilité des hôtels
+
+## Projet 11. Faites une étude sur l’activité d'un e-commerce avec Tableau
+
+L'objectif de ce projet est de créer un tableau de bord pour aider un e-commerce à comprendre son activité et pour faciliter la prise des décisions.
